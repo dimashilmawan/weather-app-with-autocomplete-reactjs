@@ -1,0 +1,92 @@
+{
+	"data": [
+		{
+			"id": 147006,
+			"wikiDataId": "Q10109",
+			"type": "CITY",
+			"city": "Central Jakarta",
+			"name": "Central Jakarta",
+			"country": "Indonesia",
+			"countryCode": "ID",
+			"region": "Jakarta",
+			"regionCode": "JK",
+			"latitude": -6.1777,
+			"longitude": 106.8403,
+			"population": 914283
+		},
+		{
+			"id": 147013,
+			"wikiDataId": "Q10111",
+			"type": "CITY",
+			"city": "East Jakarta",
+			"name": "East Jakarta",
+			"country": "Indonesia",
+			"countryCode": "ID",
+			"region": "Jakarta",
+			"regionCode": "JK",
+			"latitude": -6.2521,
+			"longitude": 106.884,
+			"population": 2871660
+		},
+		{
+			"id": 3453246,
+			"wikiDataId": "Q3630",
+			"type": "CITY",
+			"city": "Jakarta",
+			"name": "Jakarta",
+			"country": "Indonesia",
+			"countryCode": "ID",
+			"region": "Jakarta",
+			"regionCode": "JK",
+			"latitude": -6.2182,
+			"longitude": 106.8584,
+			"population": 10562088
+		},
+		{
+			"id": 147011,
+			"wikiDataId": "Q10113",
+			"type": "CITY",
+			"city": "North Jakarta",
+			"name": "North Jakarta",
+			"country": "Indonesia",
+			"countryCode": "ID",
+			"region": "Jakarta",
+			"regionCode": "JK",
+			"latitude": -6.1339,
+			"longitude": 106.8823,
+			"population": 1781734
+		},
+		{
+			"id": 147016,
+			"wikiDataId": "Q10114",
+			"type": "CITY",
+			"city": "South Jakarta",
+			"name": "South Jakarta",
+			"country": "Indonesia",
+			"countryCode": "ID",
+			"region": "Jakarta",
+			"regionCode": "JK",
+			"latitude": -6.266,
+			"longitude": 106.8135,
+			"population": 2227390
+		}
+	],
+	"links": [
+		{
+			"rel": "first",
+			"href": "/v1/geo/cities?offset=0&limit=5&minPopulation=500000&namePrefix=jaka"
+		},
+		{
+			"rel": "next",
+			"href": "/v1/geo/cities?offset=5&limit=5&minPopulation=500000&namePrefix=jaka"
+		},
+		{
+			"rel": "last",
+			"href": "/v1/geo/cities?offset=0&limit=5&minPopulation=500000&namePrefix=jaka"
+		}
+	],
+	"metadata": {
+		"currentOffset": 0,
+		"totalCount": 6
+	}
+}
